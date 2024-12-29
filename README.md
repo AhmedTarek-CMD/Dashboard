@@ -1,6 +1,7 @@
 🍽️ Dashboard Website
 
 A dynamic and responsive web application built using React.js, offering seamless navigation, intuitive interfaces, and efficient route management for various functionalities.
+
 🚀 Features
 
     Responsive Design: Fully optimized for both mobile and desktop devices.
